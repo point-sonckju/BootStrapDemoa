@@ -26,5 +26,15 @@ namespace BootStrapTesti.Controllers
 
             return View();
         }
+
+        public ActionResult Ruudukko ()
+        {
+            return View();
+        }
+
+        public ActionResult Modaa()
+        {
+            return View();
+        }
     }
 }
